@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "929137708464",
+    "firebase_url": "https://whisper-8cde3.firebaseio.com",
+    "project_id": "whisper-8cde3",
+    "storage_bucket": "whisper-8cde3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929137708464:android:a826791a6441f196fd5a75",
+        "android_client_info": {
+          "package_name": "com.tonyth00.whisper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929137708464-qu7h6ns8qmjs866d3mo6sfbktmp76v2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY1SPayW9BqqS2cju_XS95Pqqr5gxErgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929137708464-qu7h6ns8qmjs866d3mo6sfbktmp76v2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
